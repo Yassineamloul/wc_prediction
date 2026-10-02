@@ -47,3 +47,4 @@ Capgemini — Stage Infrastructure & Cloud privé : patchs Microsoft, administra
 Sogeti — Stage DevOps : pipelines CI/CD, automatisation des déploiements, architectures techniques, tests de recette (M1/M2 développement, AWS/Terraform un plus, anglais B2 minimum) : CV_Yassine_Amloul_Sogeti_DevOps_CICD.pdf
 Sogeti — Stage Ingénieur IA, SogetiLabs : IA explicable (XAI) pour réseaux V2X/SDN, GNN, Contiki/Cooja (Issy-les-Moulineaux, stage de fin d'études, anglais B2 minimum, français C1 minimum) : CV_Yassine_Amloul_Sogeti_IA_XAI_V2X_SDN.pdf
 Capgemini — Stage DevOps : plateformes CI/CD (N2/N3), environnements, déploiement jusqu'en production, Kubernetes/OpenShift/Docker (M1/M2 informatique, anglais B2) : CV_Yassine_Amloul_Capgemini_DevOps_CICD.pdf
+Stage Développement Fullstack Java / Spring Boot / React, équipe Agile, transformation digitale grand groupe industriel (Bac+5, stage de fin d'études, anglais B2 minimum) : CV_Yassine_Amloul_Fullstack_Java_React.pdf
