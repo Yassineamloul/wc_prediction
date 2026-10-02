@@ -44,4 +44,4 @@ Mistral AI — Applied AI, Forward Deployed (Paris) : CV_Yassine_Amloul_Mistral.
 Mistral AI — Applied Scientist / Research Engineer (Paris) : CV_Yassine_Amloul_Mistral_Research.pdf
 Stellantis — Stage Développement IA d'une solution d'équilibrage de tâches, ingénierie des postes de travail, département Montage véhicules Europe élargie, direction Manufacturing (stage de 6 mois, pas d'habilitation mentionnée) : CV_Yassine_Amloul_Stellantis_IA_Equilibrage_Taches.pdf
 Capgemini — Stage Infrastructure & Cloud privé : patchs Microsoft, administration, incidents N2/N3, amélioration continue (Bac+4/5, anglais B2 minimum, pas d'habilitation mentionnée) : CV_Yassine_Amloul_Capgemini_Infra_Cloud.pdf
-Sogeti — Stage DevOps : pipelines CI/CD, automatisation des déploiements, architectures techniques, tests de recette (M1/M2 développement, anglais B2 minimum) : CV_Yassine_Amloul_Sogeti_DevOps_CICD.pdf
+Sogeti — Stage DevOps : pipelines CI/CD, automatisation des déploiements, architectures techniques, tests de recette (M1/M2 développement, AWS/Terraform un plus, anglais B2 minimum) : CV_Yassine_Amloul_Sogeti_DevOps_CICD.pdf
