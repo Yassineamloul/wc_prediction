@@ -61,3 +61,4 @@ Atos — Stage Ingénieur DevOps, paramétrage et déploiement en environnements
 Atos — Stage Ingénieur Data & IA, ML/deep learning/IA générative, du prototype à l'industrialisation (MLOps, API, IA responsable), Bac+5, anglais requis : CV_Yassine_Amloul_Atos_Data_IA.pdf + Motivation_Atos_Data_IA.pdf
 Atos — Stage IA agentique, LLM open source en local, génération de code Python pour migration de données, évaluation de fiabilité, Bac+5 spécialisation IA : CV_Yassine_Amloul_Atos_IA_Agentique_Migration.pdf + Motivation_Atos_IA_Agentique_Migration.pdf
 Atos — Stage Ingénieur DevOps Java / TIBCO, flux BusinessWorks, CI/CD, API REST/JSON/XML, environnement international, Bac+5 : CV_Yassine_Amloul_Atos_DevOps_Java.pdf + Motivation_Atos_DevOps_Java.pdf
+Atos — Stage Ingénieur Machine Learning / MLOps, entraînement de modèles, pipelines CI/CD, veille IA générative/LLM, Bac+5 : CV_Yassine_Amloul_Atos_ML_MLOps.pdf + Motivation_Atos_ML_MLOps.pdf
